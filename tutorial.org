@@ -1,15 +1,14 @@
 Python Tutorial
-
-1. Kiến thức cơ bản
-  1.1 Khai báo biến
-    Python không có lệnh khai báo một biến.
-    Một biến được tạo ra khi gán một giá trị cho nó
+1. Kiến thức căn bản
+  - Khai báo biến
+    - Trong Python không có cú pháp khai báo biến,một biến sẽ được tạo ra khi thực hiện việc gán giá trị lần đầu tiên.
     #+BEGIN_EXAMPLE
-    x = 5
-    y = "John"
+      x = 5
+      y = 6
     #+END_EXAMPLE
-  1.2 Khai báo hàm
-  1.3 Condition
-  1.4 Loop
-  1.5 Data Structures
-2. Function programming
+  - Khai báo hàm
+  - Condition
+  - Loop
+  - Data Structures
+2. Lập trình hàm
+
