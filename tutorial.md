@@ -12,6 +12,14 @@ Python Tutorial
     - Ternary operator
     - Switch case
   - Loop
+    - For  loop
+    - Why loop
+    - Nested loop
   - Data Structures
+    - List
+    - Array
+    - Tuple
+    - Set
+    - Dict
 2. Lập trình hàm
 
